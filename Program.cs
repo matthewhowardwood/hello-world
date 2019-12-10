@@ -10,6 +10,9 @@ namespace hello_world
 
             // this work is done as part of feature 'A'
             Console.WriteLine("Hello from feature 'A'");
+
+            // this work is done as part of feature 'B'
+            Console.WriteLine("Hello from feature 'B'");
         }
     }
 }
